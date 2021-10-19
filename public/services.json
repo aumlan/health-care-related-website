@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Handstand Workshop",
+    "description": "We will move through a warm-up geared toward handstand, then Josh will talk you through doing handstand safely against the wall, followed by a short cool-down sequence. Please find some space at a wall for this workshop. ",
+    "price": 100,
+    "image": "./assets/services/s1.jpg",
+    "type": "Intermidiate III"
+  },
+  {
+    "id": 2,
+    "title": "The Quick Pick Me Up",
+    "description": "This class with Helen uses a combination of breath exploration and simple movement to shift stagnation and invite uplifting energy. Perfect for when you need a little boost!",
+    "price": 50,
+    "image": "./assets/services/s7.jpg",
+    "type": "Beginner I"
+  },
+  {
+    "id": 3,
+    "title": "Core to the Floor",
+    "description": "This class focuses on the core to earth relationship, rooting down to draw strength up into the centre of our being.  There is a mix of standing and supine core work that will fire you up from the inside out.",
+    "price": 75,
+    "image": "./assets/services/s3.jpg",
+    "type": "Intermediate II"
+  },
+  {
+    "id": 4,
+    "title": "Floating Triangle",
+    "description": "We will do a full practice to warm up into a really fun sequence called the Floating Triangle Sequence. In this peak sequence, we will be using a lot of core and hip strength to move through poses where we are only supported on one leg. This will be a strong class, so modifications will be provided. Note: 2 blocks are recommended for this practice. ",
+    "price": 75,
+    "image": "./assets/services/s4.jpg",
+    "type": "Intermediate II"
+  },
+  {
+    "id": 5,
+    "title": "Seeking Space",
+    "description": "In this practice Fiji will invite you to seek the space that already exists within you. In yoga we can focus too much on how to engage, but learning how to soften is also key. This practice will guide you into the space within your hips, legs, and spine so that energy can flow more freely.",
+    "price": 50,
+    "image": "./assets/services/s5.jpg",
+    "type": "Beginner III"
+  },
+  {
+    "id": 6,
+    "title": "Opening into Wheel",
+    "description": "Stretch out your tight muscles after hours spent in the car with this class geared specifically for road trips. It can be done at the side of the road or in a hotel room after a day of travel. No mat or props needed!",
+    "price": 75,
+    "image": "./assets/services/s6.jpg",
+    "type": "Intermediate I"
+  },
+  {
+    "id": 7,
+    "title": "Heels Over Head",
+    "description": "Tracey rhythmically guides this playful integration of opening the back body, shoulders and lower back as we move through plough pose, shoulder stand and fish pose. On the subtle level this class encourages communication by addressing the throat chakra. ",
+    "price": 85,
+    "image": "./assets/services/s2.jpg",
+    "type": "Intermediate III"
+  },
+  {
+    "id": 8,
+    "title": "Morning Awakening Flow",
+    "description": "This all-levels class with Josh is designed to help your whole body wake up in the morning, paying special attention to the superficial backline which tends to get tight as we sleep . Set yourself up for an energized day!",
+    "price": 50,
+    "image": "./assets/services/s8.jpg",
+    "type": "Intermediate I"
+  },
+  {
+    "id": 9,
+    "title": "I Am My Own Tree",
+    "description": "This hip-opening class is both fiery and grounding, empowering and challenging, subtle yet strong. Squats, twists, and backbends, oh my!",
+    "price": 75,
+    "image": "./assets/services/s9.jpg",
+    "type": "Intermediate III"
+  },
+  {
+    "id": 10,
+    "title": "Just for Fun",
+    "description": "Crista guides you through this full-body advanced vinyasa flow, offering a variety of challenging inversions and hand balance options. ",
+    "price": 90,
+    "image": "./assets/services/s10.jpg",
+    "type": "Advanced II"
+  },
+  {
+    "id": 11,
+    "title": "Yoga for Road Trips",
+    "description": "Josh guides this sweet flow designed to warm you up into a full wheel. Enjoy backbending, spinal mobility, and some deep stretching!",
+    "price": 75,
+    "image": "./assets/services/s11.jpg",
+    "type": "Advanced I"
+  },
+  {
+    "id": 12,
+    "title": "Hip Tonic",
+    "description": "Join Tracey in this vinyasa practice and rejuvenate your hip joints with a variety of hip movements and playful transitions as we explore balance and integration. Dynamic movements and static holds will lift us up and away into ardha chandrasana, also known as half moon pose, with space in the body and mind.",
+    "price": 50,
+    "image": "./assets/services/s12.jpg",
+    "type": "Intermediate II"
+  }
+]

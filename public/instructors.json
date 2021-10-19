@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/people/p1.jpg",
+    "icon": "./assets/ICON/Group 204.png",
+    "title": "Fiji McAlpine",
+    "description": "Fiji McAlpine is an ERYT 500 yoga instructor and is one of the founding yoga teachers featured on DoYogaWithMe.com. Her online popularity has grown significantly over the years, giving her global reach in the online platform, and has allowed her to offer frequent guidance to thousands of students each week."
+  },
+  {
+    "id": 2,
+    "image": "/assets/people/p5.jpg",
+    "icon": "./assets/ICON/Group 1133.png",
+    "title": "David Procyshyn",
+    "description": "Tracey was named the “Most Distinguished Teacher” at the 2017 Victoria Yoga Conference and sat on the selection committee for 2018. She is a graduate of McMaster University with a Physical Education Degree. She offers over 25 years experience in health and fitness, over 4000 hours teaching yoga."
+  },
+  {
+    "id": 3,
+    "image": "/assets/people/p3.jpg",
+    "icon": "./assets/ICON/Group 245.png",
+    "title": "Melissa Krieger",
+    "description": "I teach anatomy-focused classes that inspire beautiful movement. My intention is to encourage my students to find both freedom and strength in their bodies. Many of my students say that I use colourful cues and interesting language in my classes, so I guess if you’re into that you should give one of my classes a try!"
+  },
+  {
+    "id": 4,
+    "image": "/assets/people/p2.jpg",
+    "icon": "./assets/ICON/Group 245.png",
+    "title": "Helen Camisa",
+    "description": "Melissa has been in the wellness industry for 20 years, certified as a personal trainer in 2000 and as a yoga teacher in 2005, with over 10,000 hours of teaching experience. Throughout her yoga career she has continued to learn, completing Natalie Rousseau's Advanced Teacher Training, Melanie Phillips' Ayurveda Immersion, many hours of Restorative Yoga Training."
+  },
+  {
+    "id": 5,
+    "image": "/assets/people/p4.jpg",
+    "icon": "./assets/ICON/Group 245.png",
+    "title": "Andrea Ting-Luz",
+    "description": "As an educator, I strive to help leaders and entrepreneurs dig deep within themselves to understand why they found themselves at the helm of their organizations, and continue to forge their path from that distinct place.As a brand storyteller, I seek to help leaders and entrepreneurs wordsmith nuanced identities, heard above the din."
+  },
+  {
+    "id": 6,
+    "image": "/assets/people/p6.jpg",
+    "icon": "./assets/ICON/Group 245.png",
+    "title": "Rachel Scott",
+    "description": "Rachel first starting practicing yoga about twenty years ago to cope with the stresses of New York City, and stayed for the amazing mind-body connection. She also found that yoga helped her slow down, take a deep breath, and generally be a much kinder human being! After taking her first teacher training in 2003, she was hooked! "
+  }
+]
